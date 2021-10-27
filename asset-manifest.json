@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/solducks/static/css/main.76598800.chunk.css",
+    "main.js": "/solducks/static/js/main.d8692b46.chunk.js",
+    "main.js.map": "/solducks/static/js/main.d8692b46.chunk.js.map",
+    "runtime-main.js": "/solducks/static/js/runtime-main.b26c0add.js",
+    "runtime-main.js.map": "/solducks/static/js/runtime-main.b26c0add.js.map",
+    "static/js/2.27a85e3e.chunk.js": "/solducks/static/js/2.27a85e3e.chunk.js",
+    "static/js/2.27a85e3e.chunk.js.map": "/solducks/static/js/2.27a85e3e.chunk.js.map",
+    "static/js/3.8dfcd814.chunk.js": "/solducks/static/js/3.8dfcd814.chunk.js",
+    "static/js/3.8dfcd814.chunk.js.map": "/solducks/static/js/3.8dfcd814.chunk.js.map",
+    "index.html": "/solducks/index.html",
+    "static/css/main.76598800.chunk.css.map": "/solducks/static/css/main.76598800.chunk.css.map",
+    "static/js/2.27a85e3e.chunk.js.LICENSE.txt": "/solducks/static/js/2.27a85e3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b26c0add.js",
+    "static/js/2.27a85e3e.chunk.js",
+    "static/css/main.76598800.chunk.css",
+    "static/js/main.d8692b46.chunk.js"
+  ]
+}
